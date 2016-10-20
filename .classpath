@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/ray/Java Libs/jcodec-0.1.6-3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/ray/Java Libs/webcam-capture/webcam-capture-0.3.10.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/ray/webcam-capture/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/ray/Java Libs/sl4j/slf4j-1.7.21/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/home/ray/Java Libs/bridj-0.6.2-linux-only.jar"/>
+	<classpathentry kind="lib" path="/home/ray/opencv-3.1.0/build/bin/opencv-310.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/ray/opencv-3.1.0/build/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/ray/Java Libs/commons-io-2.5/commons-io-2.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/ray/Java%20Libs/commons-io-2.5/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/ray/rxtx-2.2pre2-bins/RXTXcomm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/ray/rxtx-2.2pre2-bins/x86_64-unknown-linux-gnu"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
